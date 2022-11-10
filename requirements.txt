@@ -1,0 +1,2 @@
+discord.py
+discord >= 2.0.0
